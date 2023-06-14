@@ -1,0 +1,4 @@
+MAINTAINER="v8tix"
+IMAGE="baskets"
+TAG="v1.0.1"
+IMAGE_TAG="${MAINTAINER}/${IMAGE}:${TAG}"
